@@ -10,6 +10,10 @@ cache:
 script:
   - npm test
 
+deploy:
+  on:
+    tags: true
+
 notifications:
   email:
     - wahengchang@gmail.com
