@@ -39,3 +39,8 @@ filehelper.read('./data.json')
     
 ```
 
+
+
+## License
+
+MIT © [Waheng Chang](http://github.com/wahengchang)
