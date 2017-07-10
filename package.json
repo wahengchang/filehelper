@@ -1,6 +1,6 @@
 {
   "name": "filehelper",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "File system helper, tool,  with file existed check before file write.",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,6 @@
     "mocha": "^3.4.2"
   },
   "dependencies": {
-    "fs": "0.0.1-security",
-    "path": "^0.12.7"
+    "fs": "0.0.1-security"
   }
 }

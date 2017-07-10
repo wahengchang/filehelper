@@ -1,7 +1,6 @@
 'use strict';
 
 var fs = require('fs');
-var path = require('path');
 
 var fileList = function fileList(filePath) {
     return new Promise(function (resolve, reject) {
